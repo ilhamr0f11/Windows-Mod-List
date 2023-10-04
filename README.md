@@ -7,6 +7,7 @@
 - [FoxOS](https://theultimatefoxos.dev/)
 - [Pable OS]
 - [Rectify 11](https://github.com/Rectify11/Installer)
+- [Mini 11 by MiniWindows](https://github.com/mini-windows) Including Slim 11
 - [Lite OS 11 by Nexus](https://nexusliteos.blogspot.com/?m=1)
 - [Windows 11 by D4NIEL](https://itsd4nny.wixsite.com/home/) Including Windows 11 Tiny Edition & Lite Edition
 - [Tiny 11 by NTDEV](https://archive.org/details/tiny-11_202302)
