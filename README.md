@@ -3,6 +3,7 @@
 - [Ghost Spectre](https://www.youtube.com/@GHOSTSPECTRE)
 - [Revi OS](https://revi.cc/)
 - [Kernel OS](https://github.com/Velytics/KernelOS)
+- [Ameliorated.io](https://ameliorated.io/)
 - [ggOS]()
 - [FoxOS](https://theultimatefoxos.dev/)
 - [Pable OS]
