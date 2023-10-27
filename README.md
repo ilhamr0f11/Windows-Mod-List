@@ -8,6 +8,7 @@
 - [FoxOS](https://theultimatefoxos.dev/)
 - [Pable OS]
 - [Rectify 11](https://github.com/Rectify11/Installer)
+- [RekOS](https://github.com/Reknotic/RekOS)
 - [Mini 11 by MiniWindows](https://github.com/mini-windows) Including Slim 11
 - [Lite OS](https://github.com/LiteWinOS)
 - [Lite OS 11 by Nexus](https://nexusliteos.blogspot.com/?m=1)
